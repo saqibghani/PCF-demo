@@ -2,7 +2,7 @@
 applications:
 - name: pcfdemosof
   memory: 1024M
-  instances: 1
+  instances: 2
   host: pcfdemo-sof
   path: ./target/pcfdemo.war
   services:
