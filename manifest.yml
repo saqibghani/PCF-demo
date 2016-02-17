@@ -1,7 +1,7 @@
 ---
 applications:
-- name: pcfdemo123
+- name: pcfdemosof
   memory: 1024M 
   instances: 1
-  host: pcfdemo-mo
+  host: pcfdemo-sof
   path: ./target/pcfdemo.war
