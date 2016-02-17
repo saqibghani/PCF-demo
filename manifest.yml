@@ -5,4 +5,5 @@ applications:
   instances: 1
   host: pcfdemo-sof
   path: ./target/pcfdemo.war
-  services:  message-q
+  services: 
+  - message-q
