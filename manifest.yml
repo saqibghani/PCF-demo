@@ -4,5 +4,6 @@ applications:
   memory: 1024M 
   instances: 1
   host: pcfdemo-sof
-  services:message-q
   path: ./target/pcfdemo.war
+  services: 
+  - message-q
