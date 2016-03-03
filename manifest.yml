@@ -1,7 +1,7 @@
 ---
 applications:
 - name: pcfdemonhc
-  memory: 1024M
+  memory: 512M
   instances: 1
   host: pcfdemonhc
   path: ./target/pcfdemo.war
