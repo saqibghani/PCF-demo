@@ -1,9 +1,11 @@
 ---
 applications:
-- name: pcfdemonhc
+- name: nhcsales
   memory: 512M
-  instances: 2
-  host: pcfdemonhc
+  instances: 1
+  host: nhcdemosales
   path: ./target/pcfdemo.war
+  service
+  -rabbitmq
 
 
