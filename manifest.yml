@@ -1,9 +1,9 @@
 ---
 applications:
-- name: nhcsalesmo
+- name: nhcsaleqa
   memory: 512M
   instances: 2
-  host: nhcsalesmo
+  host: nhcsalesqa
   path: ./target/pcfdemo.war
  
 
