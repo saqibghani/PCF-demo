@@ -2,7 +2,7 @@
 applications:
 - name: nhcsalesci
   memory: 512M
-  instances: 1
+  instances: 2
   host: nhcsalesci
   path: ./target/pcfdemo.war
  
