@@ -1,9 +1,9 @@
 ---
 applications:
-- name: nhcsalesgit
+- name: nhcsalestracker
   memory: 1024M
   instances: 1
-  host: nhcsalesgit
+  host: nhcsalestracker
   path: ./target/pcfdemo.war
  
 
