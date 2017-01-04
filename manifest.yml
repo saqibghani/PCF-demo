@@ -1,9 +1,9 @@
 ---
 applications:
-- name: nhcsalestracker
+- name: nhcsales
   memory: 1024M
   instances: 1
-  host: nhcsalestracker
+  host: nhcsales
   path: ./target/pcfdemo.war
  
 
