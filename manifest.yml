@@ -1,6 +1,6 @@
 ---
 applications:
-- name: nhcsalessaqib
+- name: nhc-SE-Bootcamp
   memory: 512M
   instances: 4
   host: nhcsalessaqib
