@@ -2,7 +2,7 @@
 applications:
 - name: nhc-SE-Bootcamp
   memory: 512M
-  instances: 4
+  instances: 3
   host: nhcsalesbootcamp
   path: ./target/pcfdemo.war
  
